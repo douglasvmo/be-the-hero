@@ -6,10 +6,10 @@ This project is a platform on which NGOs, can find heroes to help them with thei
 <table>
   <tr>
     <td>
-      <img height="500" width=700 src="/screenshot/frontend.gif">
+      <img height="450" src="/screenshot/frontend.gif">
     </td>
     <td>
-      <img height="500" src="/screenshot/mobile.gif">
+      <img height="450" src="/screenshot/mobile.gif">
     </td>
   </tr>
 </table>
@@ -69,11 +69,10 @@ $ npm run start
 - [NodeJS](https://nodejs.org/en/)
 - [React](https://en.reactjs.org/)
 - [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/learn)
 - [React Navigation](https://reactnavigation.org/)
 - [React router dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- [Expo](https://expo.io/learn)
 - [Knex](http://knexjs.org/)
-- [Redux](https://redux.js.org/)
 
 Made by Douglas Oliveira
 
