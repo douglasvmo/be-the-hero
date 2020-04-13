@@ -78,4 +78,4 @@ Made by Douglas Oliveira
 
 ## License
 
-This project is licensed under the MIT License - see the <a href="" target="_blank">LICENSE.md</a> file for details.
+This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE.md</a> file for details.
